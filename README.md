@@ -1,55 +1,397 @@
-# # Data Scientist
+# 👋 Hi, I'm Mennato Allah
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Quality & AI Engineer | Smart Manufacturing | Computer Vision | Industrial IoT
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+I am a **Quality & Inspection Engineer in electronics manufacturing**, combining my experience in **quality engineering, PCB manufacturing, SMT, THT, inspection, and traceability** with **Artificial Intelligence, Machine Learning, Computer Vision, Data Analysis, and IoT**.
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+My focus is building practical technology solutions that solve real manufacturing and quality problems.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### 🎯 My Engineering Focus
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Quality Engineering + AI + Data + Computer Vision + IoT**
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+I am particularly interested in:
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+* 🤖 AI for Manufacturing
+* 👁️ Computer Vision Inspection
+* 🔬 PCB & Electronic Assembly Inspection
+* 📊 Manufacturing Data Analytics
+* 🏭 Smart Manufacturing
+* 📦 Product Traceability
+* 🌐 Industrial IoT
+* 📈 Quality Monitoring & Prediction
+* 🧠 Machine Learning & Deep Learning
+* ⚙️ Process Improvement & Automation
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+# 🛠️ Technical Skills
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Quality & Manufacturing
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+* Quality Engineering
+* Inspection Engineering
+* PCB Manufacturing
+* SMT
+* THT
+* Electronic Assembly
+* Product Traceability
+* Production Monitoring
+* Root Cause Analysis
+* Process Improvement
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Quality Standards & Methodologies
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+* ISO 9001
+* ISO 14001
+* ISO/IEC 17025
+* Six Sigma Green Belt
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Agentic AI
+* Large Language Models
+* RAG
+* Structured Generation
+* Prompt Engineering
+
+### Python & Data
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* SQL
+* Data Analysis
+* Statistical Analysis
+* Data Visualization
+
+### AI / Computer Vision Frameworks
+
+* PyTorch
+* OpenCV
+* YOLO
+* Hugging Face
+* BLIP
+* T5
+
+### IoT & Embedded Systems
+
+* ESP8266
+* ESP32
+* Arduino
+* Sensors
+* Firebase
+* Environmental Monitoring
+
+### Software Development
+
+* Tkinter
+* SQLite
+* Git
+* GitHub
+* VS Code
+* Google Colab
+
+---
+
+# 🎓 Education
+
+### AI & New Technologies Diploma — National Telecommunication Institute (NTI)
+
+**2025**
+
+Completed an intensive AI and emerging technologies program covering:
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Generative AI
+* Modern AI applications
+
+---
+
+# 💼 Professional Experience
+
+## Quality & Inspection Engineer
+
+### Arab Organization for Industrialization — Electronics Factory
+
+Working in electronics manufacturing with a focus on **quality, inspection, production, and process improvement**.
+
+### Key areas of work
+
+* Quality inspection of electronic assemblies
+* SMT and THT inspection
+* PCB manufacturing and assembly quality
+* Production process monitoring
+* Product traceability
+* Quality data analysis
+* Production performance monitoring
+* Investigation of quality problems
+* Process improvement
+* Development of digital tools for manufacturing
+* Exploration of AI and computer vision applications for automated inspection
+
+---
+
+# 🚀 Featured Projects
+
+## 1. 🏭 Production Traceability & Quality Management System
+
+A Python-based production traceability application developed for electronics manufacturing.
+
+### Technologies
+
+`Python` `Tkinter` `SQLite` `Matplotlib`
+
+### Features
+
+* Product barcode tracking
+* Production quantity tracking
+* Manufacturing-step tracking
+* Technician tracking
+* Pass/Fail monitoring
+* Production progress monitoring
+* Remaining quantity calculation
+* Workshop and production-line selection
+* Production dashboards
+* Database-based traceability
+
+### Goal
+
+Digitize production traceability and provide quality and production teams with better visibility into manufacturing operations.
+
+---
+
+## 2. 👁️ PCB Component Position Inspection Using Computer Vision
+
+A computer vision solution for detecting whether **through-hole components are correctly positioned on PCBs**.
+
+### Technologies
+
+`Python` `OpenCV` `Computer Vision` `Machine Learning`
+
+### Objective
+
+Automate visual inspection and assist quality engineers in detecting component-placement problems.
+
+### Potential Applications
+
+* Incorrect component position
+* Missing components
+* Component orientation
+* Assembly inspection
+* Automated visual quality control
+
+---
+
+## 3. 📊 Smart Production & Quality Dashboard
+
+A manufacturing dashboard for monitoring production and quality indicators.
+
+### Monitored KPIs
+
+* Production quantity
+* Production rate
+* Pass rate
+* Fail rate
+* Remaining quantity
+* Temperature
+* Humidity
+
+### Technologies
+
+`Python` `Pandas` `Matplotlib` `SQLite`
+
+### Goal
+
+Transform manufacturing data into actionable information for production and quality decisions.
+
+---
+
+## 4. 🤖 AI Factory Visitor & Reception Assistant
+
+An interactive AI-assisted kiosk designed for factory visitor and reception operations.
+
+### Technologies
+
+`Python` `Tkinter` `OpenCV` `Speech Recognition` `VLC`
+
+### Features
+
+* Voice interaction
+* Visitor registration
+* Factory information
+* Sector/location guidance
+* Complaint handling
+* Request handling
+* Interactive interface
+* Video-based visitor guidance
+
+---
+
+## 5. 🌡️ Industrial Environmental Monitoring System
+
+An IoT solution for monitoring environmental conditions in industrial environments.
+
+### Technologies
+
+`ESP8266` `ESP32` `Arduino` `Firebase` `Sensors`
+
+### Monitored Parameters
+
+* Temperature
+* Humidity
+
+### Applications
+
+* Industrial environmental monitoring
+* Equipment/environment protection
+* Quality monitoring
+* Remote monitoring
+* Alert systems
+
+---
+
+## 6. 🩺 Multilingual Medical Visual Question Answering
+
+A deep-learning project developed during my AI studies for answering questions about medical images.
+
+### Technologies
+
+`Python` `PyTorch` `BLIP` `T5` `MobileNet` `Computer Vision` `NLP`
+
+### Components
+
+* Medical image understanding
+* Image captioning
+* Visual question answering
+* Deep learning
+* Natural language processing
+* Interactive application
+
+---
+
+## 7. 🎫 AI Customer Support Ticket Classifier
+
+An NLP application for automatically classifying customer support tickets.
+
+### Predictions
+
+* Category
+* Sentiment
+* Urgency
+
+### Technologies
+
+`Python` `Hugging Face` `LLMs` `Pydantic` `Structured Generation`
+
+### Objective
+
+Improve automated ticket classification using prompt engineering and structured model outputs.
+
+---
+
+# 📚 Certifications & Training
+
+* ISO 9001 Auditor
+* ISO 14001
+* ISO/IEC 17025
+* Six Sigma Green Belt
+* HCIA
+* AI & New Technologies Diploma — NTI
+
+---
+
+# 🧪 Quality + AI Applications I Am Exploring
+
+I am interested in applying AI directly to real manufacturing problems:
+
+```text
+PCB Manufacturing
+       ↓
+Quality Inspection
+       ↓
+Manufacturing Data
+       ↓
+AI / Computer Vision
+       ↓
+Defect Detection
+       ↓
+Quality Prediction
+       ↓
+Process Improvement
+```
+
+Potential applications include:
+
+* AI-based PCB inspection
+* Automated component inspection
+* Solder-defect detection
+* AOI enhancement
+* Production anomaly detection
+* Predictive quality
+* Manufacturing dashboards
+* Digital traceability
+* Industrial IoT monitoring
+* Intelligent factory assistants
+
+---
+
+# 📌 What Makes My Profile Different?
+
+My background combines three areas that are usually separated:
+
+### 🏭 Manufacturing & Quality
+
+Real-world electronics manufacturing, inspection, PCB, SMT and THT experience.
+
+### 🤖 Artificial Intelligence
+
+Machine learning, deep learning, computer vision, NLP and generative AI.
+
+### 💻 Engineering Software
+
+Python applications, dashboards, databases, traceability systems and IoT solutions.
+
+**My goal is to connect these areas to build practical Smart Manufacturing solutions.**
+
+---
+
+# 📈 Career Direction
+
+I am building my expertise toward roles and projects involving:
+
+**Quality Engineering → AI for Quality → Computer Vision → Smart Manufacturing → Industrial AI**
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn: [Add your LinkedIn URL]
+* 📧 Email: [Add your professional email]
+* 💻 GitHub: [Your GitHub Profile]
+
+---
+
+## ⭐ Featured Repositories
+
+🔹 **Production Traceability System**
+🔹 **PCB Computer Vision Inspection**
+🔹 **Smart Manufacturing Dashboard**
+🔹 **AI Factory Assistant**
+🔹 **Industrial IoT Monitoring**
+🔹 **Medical Visual Question Answering**
+🔹 **AI Ticket Classifier**
+
+---
+
+### "Building intelligent solutions for real-world quality and manufacturing problems."
