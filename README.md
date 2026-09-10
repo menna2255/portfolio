@@ -376,9 +376,9 @@ I am building my expertise toward roles and projects involving:
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn URL]
-* 📧 Email: [Add your professional email]
-* 💻 GitHub: [Your GitHub Profile]
+* 💼 LinkedIn: [www.linkedin.com/in/mennato-allah-ahmed-4b11002b4]
+* 📧 Email: [mennatoallah.abdelsalam@gmail.com]
+
 
 ---
 
