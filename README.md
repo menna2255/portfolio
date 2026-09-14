@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Mennato Allah
+## AI & Quality Engineer | Smart Manufacturing | Computer Vision | Industrial IoT
 
-## Quality & AI Engineer | Smart Manufacturing | Computer Vision | Industrial IoT
+> **Bridging AI and Quality Engineering to build intelligent manufacturing solutions.**
 
-I am a **Quality & Inspection Engineer in electronics manufacturing**, combining my experience in **quality engineering, PCB manufacturing, SMT, THT, inspection, and traceability** with **Artificial Intelligence, Machine Learning, Computer Vision, Data Analysis, and IoT**.
+I combine **Artificial Intelligence, Computer Vision, Machine Learning, Data Analytics, and Industrial IoT** with real-world experience in **electronics manufacturing, PCB, SMT, THT, inspection, and quality engineering**.
 
-My focus is building practical technology solutions that solve real manufacturing and quality problems.
+My goal is to connect **AI technology with practical quality and manufacturing problems**—turning inspection data, production data, and engineering knowledge into smarter decisions and automated solutions.
+
 
 ### 🎯 My Engineering Focus
 
