@@ -27,26 +27,6 @@ I am particularly interested in:
 
 # 🛠️ Technical Skills
 
-### Quality & Manufacturing
-
-* Quality Engineering
-* Inspection Engineering
-* PCB Manufacturing
-* SMT
-* THT
-* Electronic Assembly
-* Product Traceability
-* Production Monitoring
-* Root Cause Analysis
-* Process Improvement
-
-### Quality Standards & Methodologies
-
-* ISO 9001
-* ISO 14001
-* ISO/IEC 17025
-* Six Sigma Green Belt
-
 ### Artificial Intelligence
 
 * Machine Learning
@@ -93,12 +73,29 @@ I am particularly interested in:
 
 * Tkinter
 * SQLite
-* Git
-* GitHub
 * VS Code
 * Google Colab
-
 ---
+### Quality & Manufacturing
+
+* Quality Engineering
+* Inspection Engineering
+* PCB Manufacturing
+* SMT
+* THT
+* Electronic Assembly
+* Product Traceability
+* Production Monitoring
+* Root Cause Analysis
+* Process Improvement
+
+### Quality Standards & Methodologies
+
+* ISO 9001
+* ISO 14001
+* ISO/IEC 17025
+* Six Sigma Green Belt
+
 
 # 🎓 Education
 
