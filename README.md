@@ -313,22 +313,6 @@ Improve automated ticket classification using prompt engineering and structured 
 
 I am interested in applying AI directly to real manufacturing problems:
 
-```text
-PCB Manufacturing
-       ↓
-Quality Inspection
-       ↓
-Manufacturing Data
-       ↓
-AI / Computer Vision
-       ↓
-Defect Detection
-       ↓
-Quality Prediction
-       ↓
-Process Improvement
-```
-
 Potential applications include:
 
 * AI-based PCB inspection
